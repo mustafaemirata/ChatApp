@@ -1,2 +1,2 @@
 # ChatApp
-![Resim1][ChatApp/images/resim1.png]
+![Resim1] (ChatApp/images/resim1.png)
