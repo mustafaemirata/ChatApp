@@ -5,7 +5,7 @@ Bu proje, kullanıcıların veritabanına kayıtlı numara ve şifre ile giriş 
 ## Giriş Sayfası
 Projede kullanıcıların sisteme giriş yapabileceği ekran.
 
-![Giriş Sayfası](images/resim1.png)
+![Giriş Sayfası](ChatApp/images/resim1.png)
 
 ## Mesaj Gönderme Sayfası
 Kullanıcıların alıcı numarası, başlık ve mesaj bilgisi girerek mesaj gönderebildiği ekran.
