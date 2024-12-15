@@ -1,11 +1,24 @@
-#ChatApp
-##Projede veritabanına kayıtlı kullanıcı numarası ve şifresi girildikten sonra alıcı numarası, başlık ve mesaj bilgileri girerek girilen alıcı numarasına mesaj atılması hedeflendi. Ayrıcaa gönderilen mesajdaki her bir karakter şifrelenerek veritabanına kaydedildi. Aynı şekilde gelen kutusunda bu şifreler çözülerek mesajlar anlaşılabilir hale getirildi.
-##Giriş Sayfası
-![Resim1](ChatApp/images/resim1.png)
-##Mesaj Gönderme Sayfası
-![Resim1](ChatApp/images/resim2.png)
-![Resim1](ChatApp/images/resim3.png)
-##Giden kişinin erişmesi
-![Resim1](ChatApp/images/resim4.png)
-##Veri tabanına kayıt biçimi
-![Resim1](ChatApp/images/resim5.png)
+# ChatApp
+
+Bu proje, kullanıcıların veritabanına kayıtlı numara ve şifre ile giriş yaptıktan sonra alıcı numarası, başlık ve mesaj bilgilerini girerek mesaj gönderebilmesini sağlar. Gönderilen mesajlar, her bir karakteri şifrelenerek veritabanına kaydedilir. Gelen kutusunda ise şifrelenmiş mesajlar çözülerek kullanıcı tarafından anlaşılabilir hale getirilir.
+
+## Giriş Sayfası
+Projede kullanıcıların sisteme giriş yapabileceği ekran.
+
+![Giriş Sayfası](ChatApp/images/resim1.png)
+
+## Mesaj Gönderme Sayfası
+Kullanıcıların alıcı numarası, başlık ve mesaj bilgisi girerek mesaj gönderebildiği ekran.
+
+![Mesaj Gönderme Sayfası](ChatApp/images/resim2.png)
+![Mesaj Gönderme Sayfası - Detay](ChatApp/images/resim3.png)
+
+## Giden Kutusu
+Gönderilen mesajların listelendiği ekran.
+
+![Giden Kutusu](ChatApp/images/resim4.png)
+
+## Veritabanına Kayıt Biçimi
+Mesajların şifrelenmiş olarak veritabanında nasıl saklandığını gösterir.
+
+![Veritabanı Kayıt Biçimi](ChatApp/images/resim5.png)
