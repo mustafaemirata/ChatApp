@@ -10,15 +10,15 @@ Projede kullanıcıların sisteme giriş yapabileceği ekran.
 ## Mesaj Gönderme Sayfası
 Kullanıcıların alıcı numarası, başlık ve mesaj bilgisi girerek mesaj gönderebildiği ekran.
 
-![Mesaj Gönderme Sayfası](images/resim2.png)
-![Mesaj Gönderme Sayfası - Detay](images/resim3.png)
+![Mesaj Gönderme Sayfası](ChatApp/images/resim2.png)
+![Mesaj Gönderme Sayfası - Detay](ChatApp/images/resim3.png)
 
 ## Giden Kutusu
 Gönderilen mesajların listelendiği ekran.
 
-![Giden Kutusu](images/resim4.png)
+![Giden Kutusu](ChatApp/images/resim4.png)
 
 ## Veritabanına Kayıt Biçimi
 Mesajların şifrelenmiş olarak veritabanında nasıl saklandığını gösterir.
 
-![Veritabanı Kayıt Biçimi](images/resim5.png)
+![Veritabanı Kayıt Biçimi](ChatApp/images/resim5.png)
